@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="g-horiz-content">
+  <div class="flex-horiz">
     <UAvatar
       src="https://avatars.githubusercontent.com/u/739984?v=4"
       alt="Avatar"

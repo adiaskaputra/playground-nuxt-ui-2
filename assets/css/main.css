@@ -9,6 +9,16 @@ body {
   @apply dark:bg-gray-800;
 }
 
-.g-horiz-content {
-  @apply w-full flex items-center justify-start gap-4;
+.g-content {
+  .title {
+    @apply font-bold;
+  }
+
+  .flex-horiz {
+    @apply w-full flex items-center justify-start gap-5;
+  }
+
+  .flex-vertic {
+    @apply w-full flex flex-col items-start justify-center gap-5;
+  }
 }

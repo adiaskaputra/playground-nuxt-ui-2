@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="g-horiz-content">
+  <div class="flex-horiz">
     <UBadge>Badge</UBadge>
     <UBadge label="Badge" />
     <UBadge color="primary" variant="solid">Badge</UBadge>

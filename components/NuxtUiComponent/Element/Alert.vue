@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="g-horiz-content">
+  <div class="flex-horiz">
     <UAlert
       icon="i-heroicons-command-line"
       description="You can add components to your app using the cli."
