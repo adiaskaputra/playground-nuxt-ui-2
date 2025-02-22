@@ -10,6 +10,7 @@ export default defineNuxtConfig({
     'nuxt-security',
     '@nuxt/eslint',
     '@nuxt/ui',
+    '@vueuse/nuxt',
   ],
   components: {
     global: true,
